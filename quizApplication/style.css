@@ -1,0 +1,11 @@
+.hoverQues:hover {
+    background-color: #0275d8 !important;
+    color: white;
+
+}
+
+.active{
+    background-color: #0275d8 !important;
+    color: white;
+    
+}
